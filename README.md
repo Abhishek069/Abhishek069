@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhishek Shinde</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 
-- 💬 Ask me about **Java, Adv.Java, SQl, JDBC Connectivity**
+- 💬 Ask me about **Java, Adv.Java, SQl, JDBC Connectivity, spring boot**
 
 - 📫 How to reach me **abhishinde0723@gmail.com**
 
