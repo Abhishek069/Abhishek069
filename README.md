@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Abhishek Shinde</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 
-- 💬 Ask me about **Java, Adv.Java, SQl, JDBC Connectivity, spring boot**
+- 💬 Ask me about **Java, Adv.Java, python, SQl, JDBC Connectivity, Html, CSS , JavaScript, React 
 
 - 📫 How to reach me **abhishinde0723@gmail.com**
 
-- ⚡ Fun fact **I Think I am Funny**
+- ⚡ Fun fact **I Think I am person to make you laugh**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
